@@ -1,3 +1,9 @@
+"""
+SISTEMA BANCARIO BASICO PARA USUARIO UNICO COM 3 SAQUES DIARIOS LIMITADOS A 500 POR OPERAÇÃO.
+Desenvolvido por Marcelo Estevão da Silva
+"""
+
+
 menu = """
 
 *** BEM VINDO! SELECIONE A OPÇÃO DESEJADA ***
